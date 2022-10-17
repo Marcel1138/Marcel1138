@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/603993891254829264.png)
+![DiscordProfileBanner](https://discord.c99.nl/widget/theme-4/603993891254829264.png)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/discord.gg/projectsyshaus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jemmand92) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hyperwolf1232) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/marceltv11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCy6PP4at156p_8w4UFXNNng) 
 
