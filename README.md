@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Web Entwickler<br>👯 Germany<br><br>💬 m.naumann@project-syshaus.de<br>
+🔭 Web Entwickler<br>👯 Germany<br>
 
 
 ## 🌐 Socials:
